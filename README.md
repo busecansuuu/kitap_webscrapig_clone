@@ -1,16 +1,4 @@
-# webscraping
 
-A new Flutter project.
+![staj 2png](https://github.com/busecansuuu/kitap_webscrapig_clone/assets/103958071/b0698e1d-427d-46f0-8ffd-e719875c80c3)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![staj](https://github.com/busecansuuu/kitap_webscrapig_clone/assets/103958071/292577fd-1026-49f2-bc36-e077041b16af)
